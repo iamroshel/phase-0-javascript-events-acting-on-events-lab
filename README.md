@@ -1,5 +1,5 @@
-# Moving Things with JavaScript by Acting on Events
-
+# Moving Things with JavaScript by Acting on Events c
+ 
 ## Learning Goals
 
 - Practice moving elements on the page
